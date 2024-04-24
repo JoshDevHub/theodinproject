@@ -1,3 +1,4 @@
+# doc comment
 class CoursesController < ApplicationController
   before_action :set_cache_control_header_to_no_store
 
